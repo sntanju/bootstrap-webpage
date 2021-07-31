@@ -1,0 +1,26 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.watch{
+    background-color:#ffa500 ;
+}
+.bag{
+    background-color:#da70d6 ;
+}
+.shoe{
+    background-color:#0000ff ;
+}
+.pink{
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-color: #ff4690;
+   
+}
+.fas{
+    margin-left: 5px;
+}
+.catagoties img{
+    width: 50px;
+}
